@@ -2,7 +2,8 @@
 
 There is a rumble motor in Infinity Game Table (IGT) where you can control via our SDK to enhance your game's experience. This project is a demo showing how to control the rumble motor on IGT.
 
-Running this sample project, you will see a simple Seekbar and Button screen:
+Running this sample project, you will see a simple Seekbar and Button screen:  
+
 ![Alt text](/doc/screen.png?raw=true "Rumble motor demo")
 
 Use the slider to adjust rumble duration (in milliseconds), press the RUMBLE button to trigger the motor.
@@ -23,4 +24,10 @@ Use the slider to adjust rumble duration (in milliseconds), press the RUMBLE but
 2. Rumble for x milliseconds  
     ```
     IGTMotor.rumble(x);
-    ```w
+    ```
+
+## License (TBD)
+
+Copyright 2021 Tastemakers, LLC
+
+This project is licensed under the terms of the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) open source license. 
