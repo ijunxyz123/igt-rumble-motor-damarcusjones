@@ -25,9 +25,3 @@ Use the slider to adjust rumble duration (in milliseconds), press the RUMBLE but
     ```
     IGTMotor.rumble(x);
     ```
-
-## License (TBD)
-
-Copyright 2021 Tastemakers, LLC
-
-This project is licensed under the terms of the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) open source license. 
